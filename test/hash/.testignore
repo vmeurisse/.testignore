@@ -1,0 +1,8 @@
+# A line starting with # serves as a comment. Put a backslash ("\") in front of the first hash for
+# patterns that begin with a hash.
+#a*
+\#ab
+a#b
+a\#c
+a\#d
+
